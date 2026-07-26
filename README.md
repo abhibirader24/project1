@@ -49,6 +49,6 @@ MIN()         Lowest value
 
 ✅ Learn the syntax
 ✅ Understand the execution order
-✅ Practice daily with real datasets
+✅ Practice daily with real datasets.
 ✅ Solve interview questions consistently
 ✅ Focus on why a query works—not just how to write it# project1
