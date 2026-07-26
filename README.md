@@ -52,3 +52,7 @@ MIN()         Lowest value
 ✅ Practice daily with real datasets.
 ✅ Solve interview questions consistently
 ✅ Focus on why a query works—not just how to write it# project1
+# Project1
+
+This is my first GitHub project.
+Learning Git and GitHub.
